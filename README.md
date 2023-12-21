@@ -1,20 +1,17 @@
-##### Hey! 
+## 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙁𝙖𝙯𝙖𝙡 𝙀𝙡𝙖𝙝𝙞
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fazal-elahi/)](https://www.linkedin.com/in/fazal-elahi/)
----
+⚙️ Software Integration Engineer ☕  
 
+🥅 Goalkeeper at heart – Defending goals on the field and achieving them in the Tech
 
-<!--
-**Fazal-Elahi/Fazal-Elahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science with Software Development  
+ 
+#### Current Project & Certification:  
 
-Here are some ideas to get you started:
+🤖 Machine Learning Model with Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌩️ Become AWS & Azure Fundamentals Certified
+
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fazal-elahi/)](https://www.linkedin.com/in/fazal-elahi/)  
