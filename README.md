@@ -1,4 +1,8 @@
-### Hi there 👋
+###### Hey! 
+
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fazal-elahi/)](https://www.linkedin.com/in/fazal-elahi/)
+---
+
 
 <!--
 **Fazal-Elahi/Fazal-Elahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
